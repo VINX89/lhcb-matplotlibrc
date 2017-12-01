@@ -54,4 +54,4 @@ ytick.minor.width: 1.5
 ytick.major.pad:   10
 ytick.minor.pad:   10
 ytick.labelsize:   30
-xtick.direction:   in
+ytick.direction:   in
